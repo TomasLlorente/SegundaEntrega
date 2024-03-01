@@ -2,8 +2,11 @@
 
 *{
     font-family: "Karla", sans-serif;
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    overflow-x: hidden;
 }
-
 
 .navbar{
     background-color: orange;
@@ -39,5 +42,10 @@
 .navbar-collapse{
     display: flex;
     justify-content: end;
-
 }
+.redes{
+    text-align: center;
+    font-size: 35px;
+    letter-spacing: 2px;
+}
+
