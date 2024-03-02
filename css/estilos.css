@@ -5,7 +5,8 @@
     margin: 0px;
     padding: 0px;
     box-sizing: border-box;
-    overflow-x: hidden;
+
+
 }
 
 .navbar{
@@ -46,6 +47,20 @@
 .redes{
     text-align: center;
     font-size: 35px;
-    letter-spacing: 2px;
-}
+    letter-spacing: 2px;}
 
+.footer2{
+    background-color: orange !important;
+    margin-top: 20px;
+    padding: 10px;
+    width: 100%;
+    position:absolute;
+    bottom: 0;
+    height: auto;
+}
+footer{
+    background-color: orange;
+    margin-top: 20px;
+    padding: 10px;
+    height: auto;
+}
