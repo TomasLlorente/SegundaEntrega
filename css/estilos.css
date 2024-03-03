@@ -5,62 +5,31 @@
     margin: 0px;
     padding: 0px;
     box-sizing: border-box;
-
-
 }
 
 .navbar{
-    background-color: orange;
+    background-color: #c65314;
 }
+
 .navbar-brand img{
-    height: 50px;
+    height: 90px;
     width: auto;
-    padding-right: 10px;
-}
-.navbar-brand{
-    color: black !important; 
-    font-weight: bold !important; 
 }
 
 .nav-link{
-    color: black !important;
-    font-size: 20px !important;
+    color: white !important;
     padding: 10px !important;
-    font-size: 20px !important;
+    font-size: 25px !important;
+    font-weight: bold;
 }
 
 .nav-link:hover{
-    color: black;
+    color: wheat !important;
     font-weight: bold;
     text-decoration: underline solid 3px;
-    text-decoration-color: black;
-}
-.navbar-brand:hover{
-    color: black;
-    text-decoration: underline solid 3px;
-    text-decoration-color: black;
+    text-decoration-color: white;
 }
 .navbar-collapse{
     display: flex;
     justify-content: end;
-}
-.redes{
-    text-align: center;
-    font-size: 35px;
-    letter-spacing: 2px;}
-
-.footer2{
-    background-color: orange !important;
-    margin-top: 20px;
-    padding: 10px;
-    width: 100%;
-    position:absolute;
-    bottom: 0;
-    height: auto;
-}
-footer{
-    background-color: orange;
-    margin-top: 20px;
-    padding: 10px;
-    height: auto;
 }
