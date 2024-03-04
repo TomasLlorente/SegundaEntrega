@@ -24,7 +24,6 @@
 }
 
 .nav-link:hover{
-    color: wheat !important;
     font-weight: bold;
     text-decoration: underline solid 3px;
     text-decoration-color: white;
